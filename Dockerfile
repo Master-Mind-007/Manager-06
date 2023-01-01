@@ -1,4 +1,4 @@
-FROM mastermindmir/ml:v3.3
+FROM mastermindmir/ml:v4.2
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
